@@ -249,7 +249,6 @@ button.normal {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    /* padding: 0 10px; */
     border-radius: 50px;
     background-color: rgb(208, 253, 226);
     font-weight: 500;
@@ -484,9 +483,6 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    /* white-space: nowrap; */
-    /* font-family: 'Spartan', sans-serif; */
-
  }
 
 footer .col {
@@ -655,7 +651,6 @@ footer .copyRight {
 /* Blog Page start */
 
 #page-header.Blog-header {
-    /* background-image: url("Banner/book.jpg"); */
     background-image: url("Banner/books.jpg");
 }
 
