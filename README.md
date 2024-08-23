@@ -5,20 +5,20 @@ This is simple clone Eommerce WebPage Design in which used html, css, and javaSc
 Output
 
 Home Page
-![WhatsApp Image 2024-08-23 at 1 52 37 PM](https://github.com/user-attachments/assets/fb14d85b-5b4f-4a59-b93c-01a48a82cd9d)
+![Home](https://github.com/user-attachments/assets/a424b918-2971-4290-967d-0833dca52386)
 
 Footer 
-![WhatsApp Image 2024-08-23 at 1 52 37 PM (1)](https://github.com/user-attachments/assets/b4359f80-c755-4831-94ed-34d08dfdd7ba)
+![footer](https://github.com/user-attachments/assets/6eb17a09-9d5b-4bb3-91b0-2516c0dba5b6)
 
 Porduct
-![product](https://github.com/user-attachments/assets/580d2446-ed08-404c-9ee8-49b240e0c5ba)
+![product](https://github.com/user-attachments/assets/99a47a21-973c-497a-b2c3-caa4f3a4a640)
 
 About
-![About](https://github.com/user-attachments/assets/186c1135-491e-495c-9770-2ede4e41ca6a)
+![About](https://github.com/user-attachments/assets/42842fa6-16d4-4050-8195-2072d5506a17)
 
 Blog
-![Blog](https://github.com/user-attachments/assets/12077921-8f1a-4fad-ab36-769c53bd1b20)
+![Blog](https://github.com/user-attachments/assets/2a726dde-6502-49f5-ad1f-7369e380527a)
 
 Add to cart
-![Add to cart1](https://github.com/user-attachments/assets/5182bc16-180b-4e26-9756-1193cd5a1daf)
+![Add to cart1](https://github.com/user-attachments/assets/c5c32be2-3d7c-4293-bffd-dd3be91fa20e)
 
