@@ -379,7 +379,7 @@ button.sm {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("banner/card-1.jpg");
+    background-image: url("Banner/card-1.jpg");
     min-width: 30%;
     height: 200px;
     background-position: center;
@@ -390,12 +390,12 @@ button.sm {
 }
 
 #sm-card .card-1 {
-    background-image: url("banner/upcoming\ sale.jpg");
+    background-image: url("Banner/upcoming\ sale.jpg");
     color: #ffff;
 }
 
 #sm-card .card-2 {
-    background-image: url("banner/card-3.jpg");
+    background-image: url("Banner/card-3.jpg");
     color: #ffff;
 }
 
@@ -415,7 +415,7 @@ button.sm {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    background-image: url("banner/last\ one1.jpg");
+    background-image: url("Banner/last\ one1.jpg");
     height: 200px;
     background-size: cover;
 }
