@@ -414,7 +414,7 @@ button.sm {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    background-image: url("banner/last\ one1.jpg");
+    background-image: url("last\ one1.jpg");
     height: 200px;
     background-size: cover;
 }
