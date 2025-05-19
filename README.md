@@ -1,4 +1,4 @@
-# CloneEcomomerceWeb
+# CloneE-commerceWeb
 Hii,  I am Sujata.
 This is simple clone Eommerce WebPage Design in which used html, css, and javaScript.
 
