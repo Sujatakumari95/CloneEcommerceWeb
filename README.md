@@ -27,3 +27,7 @@ Blog
 Add to cart
 ![Add to cart1](https://github.com/user-attachments/assets/c5c32be2-3d7c-4293-bffd-dd3be91fa20e)
 
+
+Responsive with toggle button
+![ss](https://github.com/user-attachments/assets/a54b4bee-f4f9-4950-9aeb-4f1f6cbeb8e7)
+
