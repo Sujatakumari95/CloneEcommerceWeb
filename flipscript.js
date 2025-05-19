@@ -1,15 +1,13 @@
-const bar = document.getElementById("bar");
-const close = document.getElementById("close")
-const nav = document.getElementById("navbar");
 
-if (bar) {
-    bar.addEventListener('click',() =>{
-        nav.classList.add('active');
-    })
-}
 
-if (close) {
-    close.addEventListener('click',() =>{
-        nav.classList.remove('active');
-    })
-}
+
+const menu = document.getElementById("mySideMenu");
+    const slide = document.getElementById("bar");
+   
+     slide.addEventListener("click" , () =>{
+        console.log("hii");
+        menu.style.width = "50%";
+     });
+     function toggleMenu() {
+    menu.style.width = "0";
+  }

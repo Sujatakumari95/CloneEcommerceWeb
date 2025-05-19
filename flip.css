@@ -42,13 +42,14 @@ button.normal {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    padding: 2px 80px;
+    /* padding: 2px 50px; */
     background: #379786;
     box-shadow: 0 5px 20px rgba(243, 247, 247, 0.06);
     z-index: 999;
     position: sticky;
     top: 0;
     left: 0;
+    
 }
 
 #navbar {
@@ -94,9 +95,18 @@ button.normal {
     align-items: center;
 }
 
-#close {
-    display: none;
+/* side menu */
+
+.side-menu{
+    position: fixed;
+    height: 100%;
+    background-color: #141414;
+    top: 0;
+    right: 0;
+    z-index: 1000;
 }
+
+
 
 
 #middleSectionBtn {
@@ -942,14 +952,7 @@ footer .copyRight {
         font-size: 22px;
     }
 
-    #close {
-        display: initial;
-        position: absolute;
-        top: 30px;
-        left: 30px;
-        font-size: 20px;
-        color: #222;
-    }
+ 
 
     #bi-bag {
         display: none;

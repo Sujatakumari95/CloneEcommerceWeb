@@ -42,7 +42,7 @@ button.normal {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    padding: 2px 80px;
+    padding: 2px 60px;
     background: #379786;
     box-shadow: 0 5px 20px rgba(243, 247, 247, 0.06);
     z-index: 999;
@@ -89,14 +89,40 @@ button.normal {
     left: 20px;
 }
 
-#mobile {
+#mobile{
     display: none;
-    align-items: center;
+}
+#mySideMenu{
+  width: 0;
 }
 
-#close {
-    display: none;
+.side-menu {
+    
+    position: fixed;
+    height: 100%;
+    background-color: #464545;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    transition: 0.05s;
+ padding-top: 20px;   
+ overflow-x: hidden;
 }
+
+.side-menu a {
+    display: block;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 8px;
+    list-style: none;
+    text-decoration: none;
+    margin: 5px 8px;
+}
+
+/* #close {
+    /* display: none; 
+} */
 
 
 #middleSectionBtn {
@@ -487,14 +513,14 @@ footer {
     /* white-space: nowrap; */
     /* font-family: 'Spartan', sans-serif; */
 
- }
+}
 
 footer .col {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     margin-bottom: 20px;
-     padding: 0 20px;   
+    padding: 0 20px;
 }
 
 footer h4 {
@@ -542,7 +568,7 @@ footer a:hover {
 footer .copyRight {
     width: 100%;
     text-align: center;
-} 
+}
 
 /*  Start Shop Page  */
 
@@ -655,7 +681,7 @@ footer .copyRight {
 /* Blog Page start */
 
 #page-header.Blog-header {
-  
+
     background-image: url("Banner/books.jpg");
 }
 
@@ -774,7 +800,7 @@ footer .copyRight {
 
 /* Add to  Card page start */
 
-#cart{
+#cart {
     overflow-x: auto;
 }
 
@@ -920,7 +946,7 @@ footer .copyRight {
         width: 300px;
         background-color: rgb(55, 151, 134, 1);
         box-shadow: 0 40px 60px rgb(0, 0, 0, 0.01);
-        padding: 80px 0 0 10px;
+        padding: 60px 0 0 10px;
         transition: 0.2s;
     }
 
@@ -948,14 +974,14 @@ footer .copyRight {
         font-size: 22px;
     }
 
-    #close {
+    /* #close {
         display: initial;
         position: absolute;
         top: 30px;
         left: 30px;
         font-size: 20px;
         color: #222;
-    }
+    } */
 
     #bi-bag {
         display: none;
@@ -1184,7 +1210,7 @@ footer .copyRight {
     }
 
     #cart-add {
-       flex-direction: column;
+        flex-direction: column;
     }
 
     #coupon-section {
