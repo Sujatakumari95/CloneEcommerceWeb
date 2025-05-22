@@ -1,6 +1,6 @@
-# CloneE-commerceWeb
-Hii,  I am Sujata.
-This is simple clone of Eommerce WebPage Design in which used html, css, javaScript and Bootstrap .
+# E-commerce Web Clone
+Hi, I’m Sujata! I designed and developed a responsive, modern e-commerce webpage clone using HTML, CSS, Bootstrap, and a bit of JavaScript. 
+This project showcases a clean layout and user-friendly design.
 
 Output
 
